@@ -19,11 +19,12 @@ asim:
     description: "TellSomethingAboutYourself"
 ```
 
-See examples on 
-https://github.com/wowthemesnet/mediumish-theme-jekyll/tree/master/_posts
-
 2) Upload your image to '/assets/images/' folder. You can alternatively use gravatar.
 
 3) You are now ready to write your first blog post. You shold create a file under '_posts' file with same name formatting: 'year-month-day-post-name.md'
+
+>It is highly recommended to check the example posts below.
+https://github.com/wowthemesnet/mediumish-theme-jekyll/tree/master/_posts
+
 
 
