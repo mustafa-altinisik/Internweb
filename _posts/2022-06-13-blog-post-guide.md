@@ -9,7 +9,7 @@ image: assets/images/1.jpg
 1) Create an user by adding your information to '_config.yml'. Use the formatting below.
 
 ```
-asim:
+userName:
     name: yourNameSurname
     display_name: nameToBeDisplayed
     avatar: 'assets/images/yourNameSurname.jpg'
